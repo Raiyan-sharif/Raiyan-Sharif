@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![Raiyan Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyan-sharif&show_icons=true)
 <!--
 **Raiyan-sharif/Raiyan-sharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Raiyan Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyan-sharif&show_icons=true)
+
 
 Here are some ideas to get you started:
 
